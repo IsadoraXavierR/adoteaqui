@@ -45,6 +45,7 @@ h1:hover {
     transition: all 0, 30s;
 
 }
+<<<<<<< HEAD
 img{
     width: 200px;
     height: 200px;
@@ -56,6 +57,9 @@ section {
     justify-content: space-around;
     flex-direction: column;
 }
+=======
+
+>>>>>>> d2ab6992787eacb97f2740e3eefe880989d03ce7
 @media (max-width:700px) {
     .flex-conteiner {
         display: flex;
@@ -65,4 +69,8 @@ section {
     h1 {
         display: none;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d2ab6992787eacb97f2740e3eefe880989d03ce7
